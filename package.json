@@ -1,12 +1,12 @@
 {
   "name": "create-new-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "This NPM Module will contains general perpose API base code to getting started with single command.",
   "main": "config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Parth Vadhadiya",
   "license": "ISC",
   "dependencies": {}
 }
